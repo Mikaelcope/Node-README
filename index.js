@@ -1,8 +1,9 @@
-const fs = require("fs");
-const path = require('path');
-const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
-
+const fs = require('fs');
+const path = require('node:path');
+const inquirer = require('inquirer');
+const generateMarkdown = require("./generateMarkdown.js");
+const util = require('util');
+const writeFileAsync = util.promisify(fs.writeFile);
 // array of questions for user
 const questions = [
     {
@@ -53,9 +54,9 @@ const questions = [
     },
 ];
 
-// function to write README file
-function writeToFile(fileName, data) {
-}
+// // function to write README file
+// function writeToFile(fileName, data) {
+// }
 
 // function to initialize program
 function init() {
