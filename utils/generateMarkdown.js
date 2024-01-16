@@ -12,7 +12,7 @@ function generateLicense(data) {
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title} '             '  ${generateLicense(data)}
+  return `# ${data.title} ${generateLicense(data)}
   
 ## Discription
 ${data.discription}
@@ -21,7 +21,7 @@ ${data.discription}
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
-* [Tests](#test instructions)
+* [Tests](#tests)
 * [Questions](#questions)
 * [License](#license)
 
@@ -34,13 +34,13 @@ ${data.usageInfo}
 ### Contribution
 ${data.contribution}
 
-### Test Instructions
+### Tests
 ${data.testInstruct}
 
 ### Questions
 Have any questions or want to get in touch. Email me on ${data.email}
 
-To find more of my work, click on the link below:
+To find more of my work, click on the link:
 ${data.gitHub}
 
 ### License

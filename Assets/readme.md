@@ -1,4 +1,4 @@
-# Test '             '  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+# Test [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Discription
 t
@@ -7,7 +7,7 @@ t
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
-* [Tests](#test instructions)
+* [Tests](#tests)
 * [Questions](#questions)
 * [License](#license)
 
@@ -20,7 +20,7 @@ t
 ### Contribution
 t
 
-### Test Instructions
+### Tests
 t
 
 ### Questions
@@ -30,4 +30,4 @@ To find more of my work, click on the link below:
 t
 
 ### License
-This application is cover under the [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) 
+This application is cover under the [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
