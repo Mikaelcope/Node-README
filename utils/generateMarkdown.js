@@ -12,10 +12,18 @@ function generateLicense(data) {
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title} ${generateLicense(data)}
+  return `# ${data.title} '             '  ${generateLicense(data)}
   
 ## Discription
 ${data.discription}
+
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+${generateLicense(data.license)}
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ### Installation
 ${data.installation}
@@ -29,11 +37,13 @@ ${data.contribution}
 ### Test Instructions
 ${data.testInstruct}
 
-### GitHub User Information
+### Questions
+Have any questions or want to get in touch. Email me on ${data.email}
+
+To find more of my work, click on the link below:
 ${data.gitHub}
 
-### Get in Touch
-${data.email}
+
 
 ### License
 This application is cover under the ${generateLicense(data)} 
