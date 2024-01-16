@@ -13,6 +13,7 @@ https://github.com/Mikaelcope/Node-README
 
 ### Usage
 Click on the link below to see a tutorial video of how to use the app using node.<br>
+https://drive.google.com/file/d/1FNY5oiXx_LWjtL7Z59CDHjJvD6KIJhtt/view
 
 
 ### Credits
