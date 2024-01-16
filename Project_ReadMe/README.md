@@ -1,28 +1,23 @@
-# Bootstrap-Portfolio
-Creating a portfolio to showcase my web developments skills as well as previous work.
+# Node ReadMe Generator
+Using node to create a dynamic ReadME on user inputs and choices.
 
 ## Discription
-I have created a url that willl showcase my capabilities using HTML, Bootstrap and CSS. I will include projects that I have once completed. I will create links to other URLs (placeholders) as I do not have projects to fill my page. I will expand on this work the further into web development I dive and the more skills and knowledge I gain. 
+I have created a ReadMe generator that will dynamically create a README document using Node. 
 
 ### Installation
-Click on the following link to access the URL:
-https://mikaelcope.github.io/Bootstrap-Portfolio/
+Click on the following link to gain access to the files needed to launch the program into VS code.<br>
+You can pull the repository to your local device or copy and paste the files into your VS code.<br>
+Insure you have Node and Inquirer set up in order to be able to run the app.<br>
+https://github.com/Mikaelcope/Node-README
 
 
 ### Usage
-Once the URL has loaded this is what you will see: 
-![alt text](./Images/Screenshot%202.png)
-The navigational buttons will direct you through the page.
-The previous work display has link buttons to the webpages.
-There are hyperlinks and a drop down to get in touch.
+Click on the link below to see a tutorial video of how to use the app using node.<br>
+
 
 ### Credits
 EdX front end web developement course. <br>
-https://www.goodreads.com/quotes/tag/connection-with-people#:~:text=%E2%80%9CConnecting%20with%20others%20gives%20us%20a%20sense%20of,which%20empowers%20our%20humanity.%E2%80%9D%20%E2%80%95%20Susan%20C.%20Young <br>
-Boostrap. <br>
-Font Awesome. <br>
-Visme. <br>
-Quote by Susan C. Young, GoodReads.
+w3schools.com
 
 ### License
 MIT License
