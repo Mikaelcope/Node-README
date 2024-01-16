@@ -20,10 +20,10 @@ ${data.discription}
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-${generateLicense(data.license)}
-* [Contributing](#contributing)
-* [Tests](#tests)
+* [Contribution](#contribution)
+* [Tests](#test instructions)
 * [Questions](#questions)
+* [License](#license)
 
 ### Installation
 ${data.installation}
@@ -42,8 +42,6 @@ Have any questions or want to get in touch. Email me on ${data.email}
 
 To find more of my work, click on the link below:
 ${data.gitHub}
-
-
 
 ### License
 This application is cover under the ${generateLicense(data)} 
